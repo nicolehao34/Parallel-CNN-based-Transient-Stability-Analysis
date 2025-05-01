@@ -4,5 +4,7 @@ A parallel CNN-based transient stability assessment algorithm with comparable ac
 
 Parallelized training for significant training time reduction.
 
------- TO DO ------
-Scaling test
+## ------ TO DO ------
+
+- Parameter Tuning
+- Scaling test
