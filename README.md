@@ -7,4 +7,4 @@ Parallelized training for significant training time reduction.
 ## ------ TO DO ------
 
 - Parameter Tuning
-- Scaling test
+- ~~Scaling test~~
